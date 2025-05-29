@@ -24,3 +24,18 @@
    docker version
    docker compose version
    ```
+   
+## 📁 Directory Structure Example
+
+```
+project/
+│
+├── docker-compose.yml
+├── Dockerfile
+├── scripts/
+│   └── my_script.sh
+├── inventory.ini
+└── playbook.yml
+```
+
+---
